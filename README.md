@@ -5,7 +5,7 @@ How to run thr Application:
 
 
 Step 1:
-Extract the zip file(Which i have send).
+Extract the zip file.
 
 
 Step 2:
